@@ -68,10 +68,10 @@
           <mxGeometry x="510" y="1350" width="280" height="200" as="geometry" />
         </mxCell>
         <mxCell id="RRaOolgtAx2z-6Ua3NM7-21" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;打印模型比较结果&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="1580" width="260" height="60" as="geometry" />
+          <mxGeometry x="520" y="1590" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RRaOolgtAx2z-6Ua3NM7-22" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;绘制折线图比较性能&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="1680" width="260" height="60" as="geometry" />
+          <mxGeometry x="520" y="1680" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RRaOolgtAx2z-6Ua3NM7-23" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;结束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="1810" width="120" height="60" as="geometry" />
