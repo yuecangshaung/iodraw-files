@@ -67,6 +67,9 @@
         <mxCell id="RRaOolgtAx2z-6Ua3NM7-21" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;打印模型比较结果&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="1590" width="260" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RRaOolgtAx2z-6Ua3NM7-22" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;打印模型比较结果&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1720" width="260" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
