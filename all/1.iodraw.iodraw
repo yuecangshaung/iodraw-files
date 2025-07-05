@@ -64,7 +64,7 @@
         <mxCell id="RRaOolgtAx2z-6Ua3NM7-16" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;是否遍历完所有模型&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="1350" width="280" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="RRaOolgtAx2z-6Ua3NM7-21" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;记录模型结果&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RRaOolgtAx2z-6Ua3NM7-21" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;打印模型比较结果&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="1620" width="260" height="60" as="geometry" />
         </mxCell>
       </root>
