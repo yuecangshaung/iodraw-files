@@ -112,8 +112,11 @@
         <mxCell id="RRaOolgtAx2z-6Ua3NM7-37" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="380" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RRaOolgtAx2z-6Ua3NM7-38" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="RRaOolgtAx2z-6Ua3NM7-38" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="990" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRaOolgtAx2z-6Ua3NM7-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.247;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RRaOolgtAx2z-6Ua3NM7-38" target="RRaOolgtAx2z-6Ua3NM7-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
